@@ -1,0 +1,98 @@
+[   0.00 -    6.32] (v1) Tienes 10 dólares en el bolsillo, 30% de batería y acabas de aparecer en el año 2010.
+[   7.14 -   10.90] (v1) ¿Cómo te haces multimillonario en 48 horas antes de volver al presente?
+[  11.92 -   12.70] (v1) Imagina esto.
+[  13.38 -   16.30] (v1) Entras al ascensor de tu edificio un viernes cualquiera.
+[  16.78 -   20.40] (v1) Aprietas planta baja, las luces parpadean y ¡pum!
+[  21.02 -   24.98] (v1) Cuando se abre la puerta, estás en el viernes 2 de julio de 2010.
+[  25.70 -   28.02] (v1) En la pared del ascensor hay un cartel que dice
+[  28.02 -   30.16] (v1) ¡Tienes 48 horas!
+[  30.74 -   33.90] (v1) Todo lo que lleves en los bolsillos volverá contigo al presente.
+[  34.72 -   36.86] (v1) Lo primero que piensas es ¡Fácil!
+[  37.26 -   41.24] (v1) Compro Bitcoin, compro acciones de Apple y vuelvo en un helicóptero de oro.
+[  41.70 -   43.70] (v1) Pero espera, no tan rápido.
+[  44.46 -   46.84] (v1) Sacas tu único billete de 10 dólares.
+[  47.40 -   48.98] (v1) Corres a un kiosco para cambiarlo.
+[  49.32 -   50.20] (v1) Se lo das al cajero.
+[  50.64 -   53.38] (v1) El tipo lo mira 2 segundos y grita ¡Policía!
+[  54.00 -   54.54] (v1) ¿Qué pasó?
+[  55.06 -   56.56] (v1) ¡Mira la fecha de tu billete!
+[  56.92 -   58.96] (v1) Dice serie 2021.
+[  59.84 -   65.20] (v1) Para el cajero del 2010, acabas de fabricar el billete falso más ridículo de la historia.
+[  65.65 -   72.41] (v2) sales corriendo, miras tu celular, no tienes señal. Claro, las antenas 5G no existen,
+[  72.81 -   79.65] (v2) y peor aún, te queda 30% de batería y el cable USB-C todavía no se inventó. Cuando
+[  79.65 -   83.79] (v2) tu teléfono llegue a cero, será un pisapapeles muy caro.
+[  84.07 -   90.57] (v2) Ok, respira. Pones el celular en modo avión para salvar batería. Necesitas dinero real
+[  90.57 -   96.87] (v2) del 2010, ya mismo. No puedes vender tu teléfono, porque sin botones van a creer que es un juguete
+[  96.87 -  102.71] (v2) chino falso, pero tienes puestos tus auriculares inalámbicos. Entras a una tienda de computación
+[ 102.71 -  108.67] (v2) llena de monitores gigantes y olora adolescente. Le muestras tus auriculares al dueño. Le dices
+[ 108.67 -  113.27] (v2) que son un prototipo secreto japonés y le pones un vídeo en 4K en tu pantalla.
+[ 113.27 -  121.33] (v2) El tipo se queda con la boca abierta. En 2010 la gente veía videos en 360p. El dueño te quiere
+[ 121.33 -  127.31] (v2) comprar todo, pero tú haces una jugada mejor. Le dices que ha puesto 100 dólares contra mis
+[ 127.31 -  131.95] (v2) auriculares a que adivino cómo termina el partido del Mundial que empieza en 10 minutos.
+[ 132.41 -  135.91] (v3) Porque sí, estás en pleno mundial de Sudáfrica.
+[ 136.41 -  139.31] (v3) Ese viernes por la tarde juegan Uruguay contra Ghana.
+[ 139.87 -  142.07] (v3) Entras a un bar deportivo con el dueño del local.
+[ 142.61 -  144.13] (v3) Todo el mundo está gritando.
+[ 144.71 -  148.17] (v3) Tú te paras en medio del bar y apuestas esos 100 dólares a
+[ 148.17 -  149.21] (v3) algo imposible.
+[ 149.75 -  152.69] (v3) Dices que en el último segundo hay un penal para Ghana,
+[ 153.03 -  155.83] (v3) que lo van a errar y que Uruguay gana por penales.
+[ 156.41 -  160.69] (v3) Todo se ríe de ti, hasta que pasa exactamente eso.
+[ 161.09 -  163.55] (v3) El bar queda en silencio absoluto.
+[ 163.71 -  165.39] (v3) Te miran como si fueras Nostradamus.
+[ 165.93 -  168.69] (v3) Acabas de ganar mil dólares en efectivo.
+[ 169.45 -  171.83] (v3) Al día siguiente, sábado 3 de julio,
+[ 172.17 -  174.51] (v3) juega la Argentina de Maradona contra Alemania.
+[ 174.99 -  176.95] (v3) Todos creen que va a ser un partido parejo.
+[ 177.43 -  180.23] (v3) Tú pones tus mil dólares sobre la mesa a un resultado
+[ 180.23 -  181.81] (v3) exacto y demente.
+[ 182.41 -  184.41] (v3) Alemania gana 4-0.
+[ 184.95 -  187.21] (v3) Las apuestas pagan 25-1.
+[ 187.75 -  190.57] (v3) 90 minutos después, sales caminando del bar
+[ 190.57 -  194.83] (v3) con una mochila llena y 25.000 dólares en efectivo.
+[ 195.08 -  197.16] (v4) ¡Ahora sí! ¡A comprar Bitcoin!
+[ 197.96 -  205.08] (v4) Entras a un cibercafé con Windows XP. Te sientas y escribes Binance en Google. No sale nada.
+[ 205.82 -  212.82] (v4) Aquí es donde el 99% de los viajeros del tiempo fracasaría. En julio de 2010 no existían
+[ 212.82 -  218.22] (v4) las aplicaciones cripto. Es más, el primer exchange de la historia, llamado Mt. Gox,
+[ 218.58 -  224.00] (v4) recién iba a hacer su primera operación el 17 de julio, a 5 centavos por moneda.
+[ 224.00 -  231.04] (v4) Faltaban dos semanas. Y encima, años después, lo iban a hackear. Pero mientras buscas en foros viejos
+[ 231.04 -  237.94] (v4) cómo comprar, descubres el dato más loco de la historia del Internet. Resulta que ese mismo
+[ 237.94 -  244.48] (v4) sábado 3 de julio de 2010 existía una página web real llamada The Bitcoin Faucet,
+[ 244.66 -  250.04] (v4) creada por el programador Gavin Anderson. ¿Sabes qué hacía esa página? Te regalaba
+[ 250.04 -  255.90] (v4) 5 bitcoins totalmente gratis, solo por resolver un captcha para demostrar que no eras un robot.
+[ 256.36 -  261.92] (v4) ¡No es chiste! Ese sábado todavía quedaban 750 bitcoins en esa página,
+[ 262.20 -  268.04] (v4) esperando que alguien hiciera clic. A precio de hoy, te estaban regalando más de 400 mil
+[ 268.04 -  274.00] (v4) dólares por escribir tres letritas borrosas. Resuelves el captcha, te llevas tus 5 bitcoins
+[ 274.00 -  280.22] (v4) gratis, pero tú tienes 25 mil dólares para gastar. Así que entras al foro Bitcoin Talk,
+[ 280.64 -  287.06] (v4) publicas un aviso urgente. Compro bitcoins a 25 centavos cada uno. Pago cinco veces más de lo
+[ 287.06 -  289.30] (v4) que valen, hoy mismo y en efectivo.
+[ 289.59 -  292.49] (v5) Para los universitarios que minaban monedas desde su cuarto,
+[ 292.79 -  297.27] (v5) hace un millonario loco regalando billetes por puntos de un jueguito de internet.
+[ 297.97 -  302.37] (v5) Esa misma noche, cuatro programadores se juntan contigo en un McDonald's.
+[ 302.45 -  308.39] (v5) Les das la mochila con los 25 mil dólares y ellos te transfieren 100 mil bitcoins.
+[ 309.09 -  310.21] (v5) Domingo por la mañana.
+[ 310.67 -  312.69] (v5) ¡Quedan dos horas para que se abra el ascensor!
+[ 313.17 -  317.05] (v5) Tienes 100 mil cinco bitcoins, pero tienes un problema mortal.
+[ 317.05 -  318.89] (v5) ¿Cómo los traes al presente?
+[ 319.69 -  323.53] (v5) En 2010 no existían las famosas 12 palabras secretas.
+[ 323.93 -  329.29] (v5) Tus monedas son un archivo en la computadora y un código rarísimo de 51 letras y números.
+[ 329.87 -  335.33] (v5) Si lo guardas en un pendrive barato del 2010 y se rompe en el viaje, pierdes todo.
+[ 335.99 -  338.25] (v5) Así que haces el plan perfecto.
+[ 338.41 -  342.69] (v5) 1. Compras tres pendrives distintos y guardas el archivo en los tres.
+[ 343.27 -  349.99] (v5) 2. Agarras una servilleta, copias el código de 51 letras a mano, revisándolo diez veces
+[ 349.99 -  352.05] (v5) y te lo metes adentro de la media.
+[ 352.53 -  357.21] (v5) 3. Por si te asaltan al salir del ascensor, vas a la biblioteca municipal,
+[ 357.65 -  361.97] (v5) buscas el libro más aburrido del mundo, como Historia del Impuesto al Trigo
+[ 361.97 -  365.11] (v5) y escribes el código con lápiz en la última página.
+[ 365.59 -  366.63] (v5) ¡Falta un minuto!
+[ 367.05 -  371.33] (v5) Corres al edificio, te metes al ascensor, las luces parpadean y...
+[ 371.33 -  372.61] (v5) ¡Estás de vuelta en el presente!
+[ 373.39 -  376.57] (v5) Subes corriendo a tu casa, te sacas la zapatilla transpirada,
+[ 376.91 -  380.05] (v5) abres tu computadora y cargas el código de la servilleta.
+[ 380.59 -  386.49] (v5) La pantalla parpadea, saldo actual, más de 8.500 millones de dólares.
+[ 387.21 -  390.19] (v5) ¿Y sabes qué es lo más loco de todo esto?
+[ 390.71 -  394.77] (v5) Que en julio de 2010 no necesitabas ningún ascensor mágico.
+[ 395.25 -  400.35] (v5) Cualquiera con una computadora vieja y cinco minutos libres pudo haber resuelto ese captcha.
+[ 400.35 -  404.69] (v5) Pero estábamos todos demasiado ocupados bailando el waka waka.
+[ 404.93 -  409.89] (v5) ¿Y tú? ¿En qué gastarías tus primeros 100 dólares si el ascensor se abre hoy?
+[ 410.31 -  411.23] (v5) ¡Te leo en los comentarios!

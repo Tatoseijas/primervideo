@@ -2,51 +2,16 @@
   {
     "escena": "01",
     "tipo": "animada",
-    "prompt": "Wide shot of a young scruffy man with messy brown hair and a light beard, wearing an olive green hoodie, dark jeans, and a backpack. Standing by a rusty car at night in front of a modest house. 2D comic illustration style, bold black outlines, flat cel shading, cinematic lighting, 16:9"
+    "prompt": "Medium shot, 2D comic illustration, of the young scruffy man with messy brown hair, light beard, a faded olive green hoodie and a dark backpack, with a shocked expression, holding a green ten-dollar bill in one hand and a smartphone with a low battery icon in the other, on a 2010 city sidewalk. No text, bold black outlines, flat cel shading, muted color palette, cinematic lighting, 16:9"
   },
   {
     "escena": "02",
     "tipo": "animada",
-    "prompt": "Medium shot of the same young scruffy man with messy brown hair, light beard, olive green hoodie, and backpack. He is in a grocery store aisle looking stressed while holding a cheap tin can. 2D comic illustration style, bold black outlines, flat cel shading, 16:9"
+    "prompt": "Medium close-up, 2D comic illustration, showing head and torso of the young scruffy man with messy brown hair, light beard, a faded olive green hoodie and a dark backpack, with a mischievous grin, rubbing his hands together, with gold coins and an hourglass floating in the background. No text, bold black outlines, flat cel shading, muted color palette, cinematic lighting, 16:9"
   },
   {
     "escena": "03",
     "tipo": "animada",
-    "prompt": "Wide shot of the same young scruffy man with messy brown hair and olive green hoodie. He is sitting at a computer desk in a dark room with multiple glowing monitors, typing fast. 2D comic illustration style, bold black outlines, flat cel shading, cinematic lighting, 16:9"
-  },
-  {
-    "escena": "04",
-    "tipo": "animada",
-    "prompt": "Medium shot of the same young scruffy man in an olive green hoodie and backpack. He is talking on a smartphone, looking surprised with wide eyes. 2D comic illustration style, bold black outlines, flat cel shading, 16:9"
-  },
-  {
-    "escena": "05",
-    "tipo": "animada",
-    "prompt": "Medium shot of the same young scruffy man in an olive green hoodie. He is sitting at a wooden kitchen table with an older woman, both holding mugs of coffee. 2D comic illustration style, bold black outlines, flat cel shading, warm lighting, 16:9"
-  },
-  {
-    "escena": "06",
-    "tipo": "estatica",
-    "prompt": "Medium shot from inside a car. The same young scruffy man with brown hair and an olive green hoodie is driving at night, city lights blurred through the window. 2D comic illustration style, bold black outlines, flat cel shading, cinematic lighting, 16:9"
-  },
-  {
-    "escena": "07",
-    "tipo": "estatica",
-    "prompt": "Over-the-shoulder shot of the same young man in an olive green hoodie. He is looking at a computer screen showing a bank account balance with a huge green number. 2D comic illustration style, bold black outlines, flat cel shading, 16:9"
-  },
-  {
-    "escena": "08",
-    "tipo": "estatica",
-    "prompt": "Wide shot of the same young man, now looking more confident, still wearing his olive green hoodie and backpack. He is standing proudly in front of a modern, expensive apartment building at night. 2D comic illustration style, bold black outlines, flat cel shading, cinematic lighting, 16:9"
-  },
-  {
-    "escena": "09",
-    "tipo": "estatica",
-    "prompt": "Medium shot of the same young man in his olive green hoodie. He is shaking hands with a wealthy man in a sharp suit inside a bright, modern office. 2D comic illustration style, bold black outlines, flat cel shading, 16:9"
-  },
-  {
-    "escena": "10",
-    "tipo": "estatica",
-    "prompt": "Medium shot of the same young scruffy man with brown hair and an olive green hoodie. He is smiling confidently, pointing directly at the camera. 2D comic illustration style, bold black outlines, flat cel shading, cinematic lighting, 16:9"
+    "prompt": "Wide shot, 2D comic illustration, inside an old metal elevator, of the young scruffy man with messy brown hair, light beard, a faded olive green hoodie and a dark backpack, jumping in panic as lightning sparks from the ceiling lamp. No text, bold black outlines, flat cel shading, muted color palette, cinematic lighting, 16:9"
   }
 ]
