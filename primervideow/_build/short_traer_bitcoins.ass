@@ -1,0 +1,66 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Titulo,DejaVu Sans,96,&H0000D7FF,&H0000D7FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,8,40,40,250,1
+Style: Sub,DejaVu Sans,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:52.20,Titulo,,0,0,0,,¿CÓMO TRAES TUS\NBITCOINS DE 2010?
+Dialogue: 1,0:00:00.07,0:00:00.93,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TIENES 100 MIL
+Dialogue: 1,0:00:00.93,0:00:02.35,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CINCO BITCOINS
+Dialogue: 1,0:00:02.35,0:00:02.99,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PERO TIENES UN
+Dialogue: 1,0:00:02.99,0:00:03.95,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PROBLEMA MORTAL
+Dialogue: 1,0:00:03.95,0:00:05.39,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¿CÓMO LOS TRAES
+Dialogue: 1,0:00:05.39,0:00:06.39,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}AL PRESENTE?
+Dialogue: 1,0:00:06.59,0:00:07.73,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN 2010 NO
+Dialogue: 1,0:00:07.73,0:00:08.85,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EXISTÍAN LAS FAMOSAS
+Dialogue: 1,0:00:08.85,0:00:10.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}12 PALABRAS SECRETAS
+Dialogue: 1,0:00:10.83,0:00:11.57,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TUS MONEDAS SON
+Dialogue: 1,0:00:11.57,0:00:12.19,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}UN ARCHIVO EN
+Dialogue: 1,0:00:12.19,0:00:13.25,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LA COMPUTADORA Y
+Dialogue: 1,0:00:13.25,0:00:14.47,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}UN CÓDIGO RARÍSIMO
+Dialogue: 1,0:00:14.47,0:00:15.75,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DE 51 LETRAS
+Dialogue: 1,0:00:15.75,0:00:16.77,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}Y NÚMEROS
+Dialogue: 1,0:00:16.77,0:00:17.47,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SI LO GUARDAS
+Dialogue: 1,0:00:17.47,0:00:18.05,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN UN PENDRIVE
+Dialogue: 1,0:00:18.05,0:00:19.21,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BARATO DEL 2010
+Dialogue: 1,0:00:19.21,0:00:20.15,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}Y SE ROMPE
+Dialogue: 1,0:00:20.15,0:00:21.27,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN EL VIAJE
+Dialogue: 1,0:00:21.27,0:00:22.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PIERDES TODO
+Dialogue: 1,0:00:22.89,0:00:23.59,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ASÍ QUE HACES
+Dialogue: 1,0:00:23.59,0:00:25.31,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL PLAN PERFECTO
+Dialogue: 1,0:00:25.31,0:00:26.13,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}1
+Dialogue: 1,0:00:26.17,0:00:27.25,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}COMPRAS TRES PENDRIVES
+Dialogue: 1,0:00:27.25,0:00:28.57,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DISTINTOS Y GUARDAS
+Dialogue: 1,0:00:28.57,0:00:29.19,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL ARCHIVO EN
+Dialogue: 1,0:00:29.19,0:00:30.17,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LOS TRES
+Dialogue: 1,0:00:30.17,0:00:31.07,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}2
+Dialogue: 1,0:00:31.07,0:00:32.61,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}AGARRAS UNA SERVILLETA
+Dialogue: 1,0:00:32.61,0:00:33.41,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}COPIAS EL CÓDIGO
+Dialogue: 1,0:00:33.41,0:00:34.75,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DE 51 LETRAS
+Dialogue: 1,0:00:34.75,0:00:35.43,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}A MANO
+Dialogue: 1,0:00:35.43,0:00:36.89,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}REVISÁNDOLO DIEZ VECES
+Dialogue: 1,0:00:36.89,0:00:37.65,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}Y TE LO
+Dialogue: 1,0:00:37.65,0:00:38.59,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}METES ADENTRO DE
+Dialogue: 1,0:00:38.59,0:00:39.43,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LA MEDIA
+Dialogue: 1,0:00:39.43,0:00:40.35,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}3
+Dialogue: 1,0:00:40.35,0:00:40.73,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}POR SI TE
+Dialogue: 1,0:00:40.73,0:00:41.47,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ASALTAN AL SALIR
+Dialogue: 1,0:00:41.47,0:00:42.65,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DEL ASCENSOR
+Dialogue: 1,0:00:42.65,0:00:42.97,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}VAS A LA
+Dialogue: 1,0:00:42.97,0:00:44.55,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BIBLIOTECA MUNICIPAL
+Dialogue: 1,0:00:44.55,0:00:45.17,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BUSCAS EL LIBRO
+Dialogue: 1,0:00:45.17,0:00:46.27,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MÁS ABURRIDO DEL
+Dialogue: 1,0:00:46.27,0:00:46.91,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MUNDO
+Dialogue: 1,0:00:46.91,0:00:48.01,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}COMO HISTORIA DEL
+Dialogue: 1,0:00:48.01,0:00:48.87,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}IMPUESTO AL TRIGO
+Dialogue: 1,0:00:48.87,0:00:49.93,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}Y ESCRIBES EL
+Dialogue: 1,0:00:49.93,0:00:50.95,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CÓDIGO CON LÁPIZ
+Dialogue: 1,0:00:50.95,0:00:51.53,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN LA ÚLTIMA
+Dialogue: 1,0:00:51.53,0:00:52.20,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PÁGINA

@@ -1,0 +1,71 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Titulo,DejaVu Sans,96,&H0000D7FF,&H0000D7FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,8,40,40,250,1
+Style: Sub,DejaVu Sans,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:58.80,Titulo,,0,0,0,,ADIVINÉ EL\NMUNDIAL 2010
+Dialogue: 1,0:00:00.21,0:00:00.99,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ESE VIERNES POR
+Dialogue: 1,0:00:00.99,0:00:01.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LA TARDE JUEGAN
+Dialogue: 1,0:00:01.83,0:00:03.67,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}URUGUAY CONTRA GHANA
+Dialogue: 1,0:00:03.67,0:00:04.19,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ENTRAS A UN
+Dialogue: 1,0:00:04.19,0:00:05.09,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BAR DEPORTIVO CON
+Dialogue: 1,0:00:05.09,0:00:05.63,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL DUEÑO DEL
+Dialogue: 1,0:00:05.63,0:00:06.41,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LOCAL
+Dialogue: 1,0:00:06.41,0:00:07.15,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TODO EL MUNDO
+Dialogue: 1,0:00:07.15,0:00:08.51,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ESTÁ GRITANDO
+Dialogue: 1,0:00:08.51,0:00:09.01,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TÚ TE PARAS
+Dialogue: 1,0:00:09.01,0:00:09.57,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN MEDIO DEL
+Dialogue: 1,0:00:09.57,0:00:10.53,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BAR Y APUESTAS
+Dialogue: 1,0:00:10.53,0:00:11.65,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ESOS 100 DÓLARES
+Dialogue: 1,0:00:11.65,0:00:13.55,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}A ALGO IMPOSIBLE
+Dialogue: 1,0:00:13.55,0:00:14.13,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DICES QUE EN
+Dialogue: 1,0:00:14.13,0:00:15.13,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL ÚLTIMO SEGUNDO
+Dialogue: 1,0:00:15.13,0:00:15.93,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}HAY UN PENAL
+Dialogue: 1,0:00:15.93,0:00:16.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PARA GHANA
+Dialogue: 1,0:00:16.83,0:00:17.15,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}QUE LO VAN
+Dialogue: 1,0:00:17.15,0:00:17.95,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}A ERRAR Y
+Dialogue: 1,0:00:17.95,0:00:18.97,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}QUE URUGUAY GANA
+Dialogue: 1,0:00:18.97,0:00:20.21,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}POR PENALES
+Dialogue: 1,0:00:20.21,0:00:21.11,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TODO SE RÍE
+Dialogue: 1,0:00:21.11,0:00:21.91,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DE TI
+Dialogue: 1,0:00:21.91,0:00:22.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}HASTA QUE PASA
+Dialogue: 1,0:00:22.83,0:00:24.89,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EXACTAMENTE ESO
+Dialogue: 1,0:00:24.89,0:00:25.61,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL BAR QUEDA
+Dialogue: 1,0:00:25.61,0:00:27.51,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN SILENCIO ABSOLUTO
+Dialogue: 1,0:00:27.51,0:00:28.07,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TE MIRAN COMO
+Dialogue: 1,0:00:28.07,0:00:29.73,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SI FUERAS NOSTRADAMUS
+Dialogue: 1,0:00:29.73,0:00:30.77,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ACABAS DE GANAR
+Dialogue: 1,0:00:30.77,0:00:31.93,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MIL DÓLARES EN
+Dialogue: 1,0:00:31.93,0:00:33.09,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EFECTIVO
+Dialogue: 1,0:00:33.25,0:00:34.43,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}AL DÍA SIGUIENTE
+Dialogue: 1,0:00:34.43,0:00:35.17,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SÁBADO 3 DE
+Dialogue: 1,0:00:35.17,0:00:35.97,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}JULIO
+Dialogue: 1,0:00:35.97,0:00:36.69,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}JUEGA LA ARGENTINA
+Dialogue: 1,0:00:36.69,0:00:37.79,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DE MARADONA CONTRA
+Dialogue: 1,0:00:37.79,0:00:38.79,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ALEMANIA
+Dialogue: 1,0:00:38.79,0:00:39.49,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TODOS CREEN QUE
+Dialogue: 1,0:00:39.49,0:00:39.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}VA A SER
+Dialogue: 1,0:00:39.83,0:00:41.23,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}UN PARTIDO PAREJO
+Dialogue: 1,0:00:41.23,0:00:41.77,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TÚ PONES TUS
+Dialogue: 1,0:00:41.77,0:00:42.79,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MIL DÓLARES SOBRE
+Dialogue: 1,0:00:42.79,0:00:43.51,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LA MESA A
+Dialogue: 1,0:00:43.51,0:00:44.99,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}UN RESULTADO EXACTO
+Dialogue: 1,0:00:44.99,0:00:46.21,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}Y DEMENTE
+Dialogue: 1,0:00:46.21,0:00:47.69,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ALEMANIA GANA 4
+Dialogue: 1,0:00:47.69,0:00:48.75,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}-0
+Dialogue: 1,0:00:48.75,0:00:49.69,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LAS APUESTAS PAGAN
+Dialogue: 1,0:00:49.69,0:00:51.55,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}25 -1
+Dialogue: 1,0:00:51.55,0:00:53.17,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}90 MINUTOS DESPUÉS
+Dialogue: 1,0:00:53.17,0:00:54.15,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SALES CAMINANDO DEL
+Dialogue: 1,0:00:54.15,0:00:54.75,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BAR CON UNA
+Dialogue: 1,0:00:54.75,0:00:56.21,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MOCHILA LLENA Y
+Dialogue: 1,0:00:56.21,0:00:57.85,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}25 .000 DÓLARES
+Dialogue: 1,0:00:57.85,0:00:58.80,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN EFECTIVO

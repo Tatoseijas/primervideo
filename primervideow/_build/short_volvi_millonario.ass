@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Titulo,DejaVu Sans,96,&H0000D7FF,&H0000D7FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,8,40,40,250,1
+Style: Sub,DejaVu Sans,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:46.20,Titulo,,0,0,0,,VOLVÍ DE 2010\NMILLONARIO
+Dialogue: 1,0:00:00.19,0:00:01.65,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¡FALTA UN MINUTO!
+Dialogue: 1,0:00:01.65,0:00:02.95,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CORRES AL EDIFICIO
+Dialogue: 1,0:00:02.95,0:00:03.47,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TE METES AL
+Dialogue: 1,0:00:03.47,0:00:04.23,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ASCENSOR
+Dialogue: 1,0:00:04.23,0:00:05.29,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LAS LUCES PARPADEAN
+Dialogue: 1,0:00:05.29,0:00:05.93,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}Y
+Dialogue: 1,0:00:05.93,0:00:06.65,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¡ESTÁS DE VUELTA
+Dialogue: 1,0:00:06.65,0:00:07.81,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN EL PRESENTE!
+Dialogue: 1,0:00:07.99,0:00:08.91,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SUBES CORRIENDO A
+Dialogue: 1,0:00:08.91,0:00:09.61,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TU CASA
+Dialogue: 1,0:00:09.61,0:00:10.11,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TE SACAS LA
+Dialogue: 1,0:00:10.11,0:00:11.51,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ZAPATILLA TRANSPIRADA
+Dialogue: 1,0:00:11.51,0:00:12.55,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ABRES TU COMPUTADORA
+Dialogue: 1,0:00:12.55,0:00:13.45,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}Y CARGAS EL
+Dialogue: 1,0:00:13.45,0:00:14.07,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CÓDIGO DE LA
+Dialogue: 1,0:00:14.07,0:00:15.19,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SERVILLETA
+Dialogue: 1,0:00:15.19,0:00:16.81,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LA PANTALLA PARPADEA
+Dialogue: 1,0:00:16.81,0:00:18.09,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SALDO ACTUAL
+Dialogue: 1,0:00:18.09,0:00:18.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MÁS DE 8
+Dialogue: 1,0:00:18.83,0:00:20.71,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}.500 MILLONES DE
+Dialogue: 1,0:00:20.71,0:00:21.69,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DÓLARES
+Dialogue: 1,0:00:21.81,0:00:22.95,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¿Y SABES QUÉ
+Dialogue: 1,0:00:22.95,0:00:23.65,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ES LO MÁS
+Dialogue: 1,0:00:23.65,0:00:24.43,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LOCO DE TODO
+Dialogue: 1,0:00:24.43,0:00:25.31,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ESTO?
+Dialogue: 1,0:00:25.31,0:00:25.91,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}QUE EN JULIO
+Dialogue: 1,0:00:25.91,0:00:27.11,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DE 2010 NO
+Dialogue: 1,0:00:27.11,0:00:28.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}NECESITABAS NINGÚN ASCENSOR
+Dialogue: 1,0:00:28.83,0:00:29.85,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MÁGICO
+Dialogue: 1,0:00:29.85,0:00:30.77,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CUALQUIERA CON UNA
+Dialogue: 1,0:00:30.77,0:00:31.99,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}COMPUTADORA VIEJA Y
+Dialogue: 1,0:00:31.99,0:00:33.19,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CINCO MINUTOS LIBRES
+Dialogue: 1,0:00:33.19,0:00:34.31,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PUDO HABER RESUELTO
+Dialogue: 1,0:00:34.31,0:00:34.95,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ESE CAPTCHA
+Dialogue: 1,0:00:34.95,0:00:36.37,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PERO ESTÁBAMOS TODOS
+Dialogue: 1,0:00:36.37,0:00:38.43,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DEMASIADO OCUPADOS BAILANDO
+Dialogue: 1,0:00:38.43,0:00:39.53,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL WAKA WAKA
+Dialogue: 1,0:00:39.53,0:00:40.65,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¿Y TÚ?
+Dialogue: 1,0:00:40.65,0:00:41.47,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¿EN QUÉ GASTARÍAS
+Dialogue: 1,0:00:41.47,0:00:42.39,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TUS PRIMEROS 100
+Dialogue: 1,0:00:42.39,0:00:43.33,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DÓLARES SI EL
+Dialogue: 1,0:00:43.33,0:00:44.19,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ASCENSOR SE ABRE
+Dialogue: 1,0:00:44.19,0:00:44.91,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}HOY?
+Dialogue: 1,0:00:44.91,0:00:45.33,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¡TE LEO EN
+Dialogue: 1,0:00:45.33,0:00:46.20,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LOS COMENTARIOS!

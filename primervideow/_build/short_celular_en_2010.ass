@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Titulo,DejaVu Sans,96,&H0000D7FF,&H0000D7FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,8,40,40,250,1
+Style: Sub,DejaVu Sans,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:48.00,Titulo,,0,0,0,,LLEVÉ MI CELULAR\NA 2010
+Dialogue: 1,0:00:00.07,0:00:00.87,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}OK
+Dialogue: 1,0:00:00.87,0:00:02.23,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}RESPIRA
+Dialogue: 1,0:00:02.31,0:00:03.09,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PONES EL CELULAR
+Dialogue: 1,0:00:03.09,0:00:03.77,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN MODO AVIÓN
+Dialogue: 1,0:00:03.77,0:00:05.37,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PARA SALVAR BATERÍA
+Dialogue: 1,0:00:05.37,0:00:06.57,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}NECESITAS DINERO REAL
+Dialogue: 1,0:00:06.57,0:00:07.81,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DEL 2010
+Dialogue: 1,0:00:07.81,0:00:09.11,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}YA MISMO
+Dialogue: 1,0:00:09.11,0:00:09.77,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}NO PUEDES VENDER
+Dialogue: 1,0:00:09.77,0:00:10.71,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TU TELÉFONO
+Dialogue: 1,0:00:10.71,0:00:11.57,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PORQUE SIN BOTONES
+Dialogue: 1,0:00:11.57,0:00:12.21,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}VAN A CREER
+Dialogue: 1,0:00:12.21,0:00:12.53,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}QUE ES UN
+Dialogue: 1,0:00:12.53,0:00:14.01,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}JUGUETE CHINO FALSO
+Dialogue: 1,0:00:14.01,0:00:14.99,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PERO TIENES PUESTOS
+Dialogue: 1,0:00:14.99,0:00:17.11,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TUS AURICULARES INALÁMBRICOS
+Dialogue: 1,0:00:17.11,0:00:17.69,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ENTRAS A UNA
+Dialogue: 1,0:00:17.69,0:00:18.71,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TIENDA DE COMPUTACIÓN
+Dialogue: 1,0:00:18.71,0:00:19.79,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LLENA DE MONITORES
+Dialogue: 1,0:00:19.79,0:00:21.03,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}GIGANTES Y OLOR A
+Dialogue: 1,0:00:21.03,0:00:22.21,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ADOLESCENTE
+Dialogue: 1,0:00:22.21,0:00:22.79,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LE MUESTRAS TUS
+Dialogue: 1,0:00:22.79,0:00:24.31,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}AURICULARES AL DUEÑO
+Dialogue: 1,0:00:24.31,0:00:24.85,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LE DICES QUE
+Dialogue: 1,0:00:24.85,0:00:25.69,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SON UN PROTOTIPO
+Dialogue: 1,0:00:25.69,0:00:27.17,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SECRETO JAPONÉS Y
+Dialogue: 1,0:00:27.17,0:00:27.67,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LE PONES UN
+Dialogue: 1,0:00:27.67,0:00:28.67,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}VÍDEO EN 4K
+Dialogue: 1,0:00:28.67,0:00:29.27,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN TU PANTALLA
+Dialogue: 1,0:00:29.27,0:00:30.55,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL TIPO SE
+Dialogue: 1,0:00:30.55,0:00:31.19,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}QUEDA CON LA
+Dialogue: 1,0:00:31.19,0:00:32.55,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BOCA ABIERTA
+Dialogue: 1,0:00:32.55,0:00:33.43,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN 2010 LA
+Dialogue: 1,0:00:33.43,0:00:34.37,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}GENTE VEÍA VIDEOS
+Dialogue: 1,0:00:34.37,0:00:36.55,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN 360P
+Dialogue: 1,0:00:36.55,0:00:37.15,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL DUEÑO TE
+Dialogue: 1,0:00:37.15,0:00:38.53,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}QUIERE COMPRAR TODO
+Dialogue: 1,0:00:38.53,0:00:39.21,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PERO TÚ HACES
+Dialogue: 1,0:00:39.21,0:00:40.59,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}UNA JUGADA MEJOR
+Dialogue: 1,0:00:40.59,0:00:41.77,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LE DICES QUE
+Dialogue: 1,0:00:41.77,0:00:42.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}APUESTO 100 DÓLARES
+Dialogue: 1,0:00:42.83,0:00:43.93,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CONTRA MIS AURICULARES
+Dialogue: 1,0:00:43.93,0:00:44.83,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}A QUE ADIVINO
+Dialogue: 1,0:00:44.83,0:00:45.69,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CÓMO TERMINA EL
+Dialogue: 1,0:00:45.69,0:00:46.63,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PARTIDO DEL MUNDIAL
+Dialogue: 1,0:00:46.63,0:00:47.31,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}QUE EMPIEZA EN
+Dialogue: 1,0:00:47.31,0:00:48.00,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}10 MINUTOS

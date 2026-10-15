@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Titulo,DejaVu Sans,96,&H0000D7FF,&H0000D7FF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,8,40,40,250,1
+Style: Sub,DejaVu Sans,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:32.20,Titulo,,0,0,0,,VIAJÉ A 2010\NCON 10 DÓLARES
+Dialogue: 1,0:00:00.00,0:00:01.04,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}TIENES 10 DÓLARES
+Dialogue: 1,0:00:01.04,0:00:02.26,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EN EL BOLSILLO
+Dialogue: 1,0:00:02.26,0:00:03.20,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}30 % DE
+Dialogue: 1,0:00:03.20,0:00:04.56,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BATERÍA Y ACABAS
+Dialogue: 1,0:00:04.56,0:00:05.22,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DE APARECER EN
+Dialogue: 1,0:00:05.22,0:00:06.92,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL AÑO 2010
+Dialogue: 1,0:00:07.14,0:00:07.66,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¿CÓMO TE HACES
+Dialogue: 1,0:00:07.66,0:00:09.04,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MULTIMILLONARIO EN 48
+Dialogue: 1,0:00:09.04,0:00:10.26,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}HORAS ANTES DE
+Dialogue: 1,0:00:10.26,0:00:11.26,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}VOLVER AL PRESENTE?
+Dialogue: 1,0:00:11.26,0:00:12.28,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SACAS TU ÚNICO
+Dialogue: 1,0:00:12.28,0:00:13.22,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}BILLETE DE 10
+Dialogue: 1,0:00:13.22,0:00:14.20,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DÓLARES
+Dialogue: 1,0:00:14.20,0:00:14.70,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}CORRES A UN
+Dialogue: 1,0:00:14.70,0:00:16.12,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}KIOSCO PARA CAMBIARLO
+Dialogue: 1,0:00:16.12,0:00:16.46,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}SE LO DAS
+Dialogue: 1,0:00:16.46,0:00:17.44,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}AL CAJERO
+Dialogue: 1,0:00:17.44,0:00:17.92,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL TIPO LO
+Dialogue: 1,0:00:17.92,0:00:18.76,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MIRA 2 SEGUNDOS
+Dialogue: 1,0:00:18.76,0:00:20.78,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}Y GRITA ¡POLICÍA!
+Dialogue: 1,0:00:20.80,0:00:21.86,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¿QUÉ PASÓ?
+Dialogue: 1,0:00:21.86,0:00:22.66,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}¡MIRA LA FECHA
+Dialogue: 1,0:00:22.66,0:00:23.72,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DE TU BILLETE!
+Dialogue: 1,0:00:23.72,0:00:26.36,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DICE SERIE 2021
+Dialogue: 1,0:00:26.64,0:00:27.28,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}PARA EL CAJERO
+Dialogue: 1,0:00:27.28,0:00:28.38,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}DEL 2010
+Dialogue: 1,0:00:28.38,0:00:29.36,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}ACABAS DE FABRICAR
+Dialogue: 1,0:00:29.36,0:00:30.28,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}EL BILLETE FALSO
+Dialogue: 1,0:00:30.28,0:00:31.60,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}MÁS RIDÍCULO DE
+Dialogue: 1,0:00:31.60,0:00:32.20,Sub,,0,0,0,,{\pos(540,1494)\fscx115\fscy115\t(0,120,\fscx100\fscy100)}LA HISTORIA

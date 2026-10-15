@@ -506,8 +506,11 @@ def main():
     lista.write_text("".join(f"file '{c.name}'\n" for c in clips))
     solo_video = CLIPS / "solo_video.mp4"
     run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", lista, "-c", "copy", solo_video])
+    # la voz se rellena con silencio hasta la duración exacta del video
+    # (apad sin límite + -shortest con copia de video deja a ffmpeg generando silencio sin fin)
+    total = duracion(solo_video)
     run(["ffmpeg", "-v", "error", "-y", "-i", solo_video, "-i", NARRACION, "-map", "0:v", "-map", "1:a",
-         "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-af", "apad", "-shortest",
+         "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-af", f"apad=whole_dur={total:.3f}",
          "-movflags", "+faststart", SALIDA])
     print(f"LISTO: {SALIDA} — {duracion(SALIDA):.2f}s")
 
