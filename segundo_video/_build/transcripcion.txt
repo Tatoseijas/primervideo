@@ -1,0 +1,50 @@
+[   0.00 -    6.06] Te despiertas con tu buzo verde de siempre, pero el colchón es distinto, abres los ojos
+[   6.06 -   12.46] y estás sentado en la oficina oval. Tienes el control del país más poderoso del planeta,
+[  12.96 -   20.06] pero solo por 24 horas. Tu primer instinto es asomarte, tomar aire, pero cuando vas
+[  20.06 -   26.16] a abrir la ventana, un agente enorme de traje negro te frena la mano de golpe. Ahí aprendes
+[  26.16 -   33.70] la primera regla. Las ventanas de la casa blanca no se pueden abrir. Nunca, ni siquiera en verano.
+[  34.28 -   39.34] Y si pensabas salir a dar una vuelta para despejarte, olvídate de las llaves de tu auto,
+[  39.80 -   45.18] por extrema seguridad. Tienes prohibido volver a manejar un vehículo por el resto de tu vida en
+[  45.18 -   51.28] la vía pública. Eres el hombre más poderoso del mundo, pero acabas de despertar en la prisión
+[  51.28 -   57.54] más vigilada del planeta. Agarras tu celular para buscar en Google qué está pasando, pero te lo sacan
+[  57.54 -   64.78] de las manos. Te entregan un teléfono negro, pesado y modificado. No tiene cámara, no tiene
+[  64.78 -   71.14] micrófono activo, no puede mandar mensajes de texto normales. Haquear al presidente es el
+[  71.14 -   76.72] premio mayor del mundo, así que estás digitalmente aislado. A media mañana,
+[  76.72 -   83.14] tomas un vaso de agua durante una reunión. Cuando te levantas, un agente con guantes guarda
+[  83.14 -   90.18] tu vaso en una bolsa hermética. No están limpiando. Están protegiendo tu ADN. Cuando sales de tu
+[  90.18 -   96.60] entorno seguro, el servicio secreto recolecta cada vaso que tocas, cada servilleta y hasta los
+[  96.60 -  103.52] cabellos sueltos. ¿Por qué? Para evitar que espías extranjeros analicen tu genética y descubran
+[ 103.52 -  110.14] vulnerabilidades médicas o alergías que puedan usar en tu contra. Llega la tarde y tienes que salir.
+[ 110.86 -  118.12] Te suben a la bestia. Es una limucina negra que parece un auto de lujo, pero en realidad es un
+[ 118.12 -  125.30] tanque de guerra camuflado. Las puertas pesan lo mismo que las de un avión Boeing. La cabina
+[ 125.30 -  130.98] está sellada al vacío contra ataques químicos. Tiene su propio suministro de oxígeno.
+[ 130.98 -  137.74] Y en el baúl hay bolsas de sangre con tu tipo exacto por si hay una emergencia médica. Vuelves
+[ 137.74 -  144.60] sano y salvo a la casa blanca y el estrés te da hambre. Pides el banquete más caro posible
+[ 144.60 -  151.70] preparado por el chef privado. Pero hay un secreto que el cine te oculta. El presidente paga
+[ 151.70 -  157.90] su propia comida. A fin de mes, de tu sueldo, te descuentan el ticket del supermercado,
+[ 157.90 -  164.64] los artículos de limpieza y hasta la tintorería. Y ni se te ocurra pedir un delivery para ahorrar.
+[ 165.30 -  170.34] Los agentes compran tus ingredientes en secreto, en distintos locales al azar,
+[ 170.80 -  176.76] para que nadie pueda rastrear tu rutina y envenenarte. Cae la noche y te das cuenta de algo
+[ 176.76 -  183.46] escalofriante. Vayas donde vayas. Un militar te sigue exactamente a dos pasos de distancia.
+[ 183.46 -  191.32] Carga un maletín negro de 20 kilos. Es el famoso nuclear football. Adentro no hay un
+[ 191.32 -  197.94] botón rojo de película, hay un menú de opciones de destrucción masiva. El militar se te acerca y
+[ 197.94 -  204.26] te entrega una simple tarjeta de plástico. La llaman la galleta y tiene los códigos de
+[ 204.26 -  211.62] autenticación. Tu vida ahora depende de no perder ese pedazo de plástico viejo. El estrés
+[ 211.62 -  218.40] es demasiado, así que exiges ver los verdaderos secretos. Te llevan seis pisos bajo el césped de
+[ 218.40 -  225.80] la Casa Blanca, cruzando puertas blindadas de bóveda de banco hasta el PEOC, el Centro de Operaciones
+[ 225.80 -  234.14] de Emergencia. Ahí, aislado del mundo, pides que te traigan los archivos clasificados. Lo que
+[ 234.14 -  240.64] sea que veas ahí, no puedes contárselo a nadie. De repente, las alarmas de la Casa
+[ 240.64 -  247.94] Blanca empiezan a sonar a todo volumen. No es un simulacro. Los agentes te sacan corriendo por un
+[ 247.94 -  255.90] túnel secreto y te suben al E-4B Night Watch, el avión del juicio final. Esta fortaleza voladora
+[ 255.90 -  262.34] despega en total oscuridad. No tiene ventanas digitales en la zona de control para resistir
+[ 262.34 -  268.88] el pulso electromagnético de una bomba atómica. Mientras suben a la estratosfera, el avión
+[ 268.88 -  275.02] despliega un cable de antena de 8 kilómetros de largo que cuelga en el aire para poder comunicarse
+[ 275.02 -  282.38] directamente con submarinos nucleares sumergidos en el océano. Aislado en el cielo, los radares
+[ 282.38 -  288.50] del avión marcan una amenaza inminente hacia tu territorio. Todo se vuelve un caos, pero
+[ 288.50 -  297.64] el protocolo es brutalmente claro. No hay tiempo para llamar al Congreso. No hay
+[ 297.64 -  306.14] exactamente cuatro minutos. 240 segundos para decidir si les los códigos de la galleta, autorizas
+[ 306.14 -  312.02] el contraataque y desatas el fin del mundo, o si te quedas de brazos cruzados arriesgándote
+[ 312.02 -  321.48] a perderlo todo. Miras el reloj del avión. Marca las 23.59. Faltan apenas 60 segundos
+[ 321.48 -  328.28] para que terminen tus 24 horas de mandato y vuelvas mágicamente a tu habitación. El militar
+[ 328.28 -  333.80] inexpresivo te acerca un teléfono rojo de comunicación directa. Tienes la tarjeta de
+[ 333.80 -  340.98] plástico transpirada en tu mano. Faltan 10 segundos. Das la orden o dejas que el mundo se arregle solo.
