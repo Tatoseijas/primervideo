@@ -1,0 +1,77 @@
+import json
+D1 = "the young scruffy man with messy brown hair and a light beard, wearing a faded olive green hoodie and a dark backpack with double straps"
+D2 = "the young scruffy man with messy brown hair and a light beard, wearing a worn dark jacket over the olive green hoodie"
+D3 = "the man with messy brown hair slicked back and a neat short beard, wearing a tailored charcoal suit, no backpack"
+DON = "an elderly heavyset man with white hair and a deep scowl, wearing a rumpled silk robe"
+STYLE = "2D comic illustration, bold black outlines, flat cel shading, dark noir palette with deep blues and sodium-orange streetlight, cinematic lighting, 16:9, no text"
+S = [
+ ("Wide shot of an empty throne carved from rubble and cracked bricks in a dark alley, a golden crown resting on it, rain falling, no people", None),
+ ("Close up of a trembling old hand letting go of a golden crown while a younger hand reaches to take it, dramatic shadows", None),
+ ("Aerial view of a rainy city at night, glowing towers in the center and dark alleys in the outskirts, ominous mood", None),
+ ("Medium shot of a faceless shadowy figure of a mafia boss in a dark office, cigar smoke curling, city lights behind", None),
+ ("Wide shot of a dark rainy alley with a lone figure silhouetted under a flickering streetlight, looking at the camera", D1),
+ ("Medium shot of {c} standing in a damp alley, hands in pockets, tired watchful eyes, steam rising from a grate", D1),
+ ("Interior of a shabby dive bar, {c} sits alone at the corner of the bar watching everyone, dim neon beer signs", D1),
+ ("Long grimy corridor smelling of ammonia, peeling green paint and a flickering bulb, {c} walks down it with a cold expression", D1),
+ ("Medium shot of a fat low-level underboss in a cheap shiny suit counting cash and not looking up, {c} stands in front of him waiting", D1),
+ ("Close up of {c} knocking on a shabby apartment door at night, a frightened silhouette visible through the frosted glass", D1),
+ ("Over the shoulder shot of {c} holding a debtor by the collar against a brick wall, the debtor terrified, shadows long", D1),
+ ("Wide shot of a street in a poor neighborhood at night, shopkeepers lowering their shutters nervously as {c} walks past", D1),
+ ("Split image: on the left a cracked tombstone calendar reading 3 to 4 years, on the right {c} looking at it with a deadpan expression", D1),
+ ("Medium shot of police officers pushing {c} toward a patrol car while the underboss watches smiling from a doorway, red and blue lights", D1),
+ ("Wide shot of a dark alley where a body bag lies on the ground and a rival gang silhouette walks away, rain falling", None),
+ ("Close up of {c} with sharp attentive eyes, the rest of the frame blurred, one eyebrow slightly raised, noir lighting", D1),
+ ("Medium shot of two rowdy thugs wearing heavy gold chains laughing and spilling drinks at a party while {c} stands apart with a glass of water", D1),
+ ("Close up of {c} hiding a thick roll of cash inside a hollow brick in a wall, glancing over his shoulder", D1),
+ ("Medium shot of {c} sitting on a rooftop at night listening to a conversation below through an open window, city lights behind", D1),
+ ("Finger over lips silent gesture, {c} in a noisy chaotic street full of gunshots and sirens as quiet calm center, symbolic composition", D1),
+ ("Title card style scene: a calendar with pages flying away, five years passing, {c} in the background looking older and harder", D1),
+ ("Medium shot of {c} directing a small group of rough collectors in a back room around a table with ledgers", D2),
+ ("Close up of a bullet casing on wet asphalt with a name scratched into it, ominous, shallow depth of field", None),
+ ("Wide shot of an old-fashioned mafia boardroom: aging capos in old suits and fedoras around a long table, thick cigar smoke", None),
+ ("Medium shot of old capos looking confused at a laptop on the table as if it were an alien object, one pokes it with a cigar", None),
+ ("Wide shot of a busy shipping port at dawn, a giant container ship held by customs officers in yellow vests, stamps and red tape everywhere", None),
+ ("Close up of a bank screen reading ACCOUNT FROZEN in red glow with no readable text, sweating mob accountants around it", None),
+ ("Medium shot of an angry mob boss slamming a fist on the table, capos shouting and pulling out guns, a map of judges' photos pinned on the wall", None),
+ ("Low angle shot of {c} stepping forward into the middle of the room, all heads turning toward him, tense silence", D2),
+ ("Close up of {c} leaning over the boss's desk, whispering a plan, calm and calculating eyes, desk lamp lighting half his face", D2),
+ ("Montage style collage: young lawyers, a broke accountant at a casino table, and a hooded hacker typing in the dark, connected by red string on a wall", None),
+ ("Wide shot of glowing lines of money moving across a world map between small flags, 72-hour countdown clock in the corner", None),
+ ("Medium shot of {c} handing a customs officer an envelope in a parking garage, the officer sweating over a pile of betting slips", D2),
+ ("Wide shot of the port gates opening at sunrise, trucks rolling out with the cargo, {c} watching from a distance with a faint smile", D2),
+ ("Medium shot of the old boss stunned and impressed, pointing at {c} who stands in the shadows, other capos silent", D2),
+ ("Close up of {c} in the shadows behind the boss's chair, a chess queen piece in his hand, mysterious", D2),
+ ("Wide shot of a luxurious penthouse office with floor-to-ceiling windows over the city, {c} adjusting his cufflinks", D3),
+ ("Medium shot of {c} signing papers across a desk with smiling politicians in suits, briefcases full of cash at their feet", D3),
+ ("Wide shot of a courthouse and a police headquarters, strings attached to the judges and the police chief like puppets, held by {c}'s silhouette overhead", D3),
+ ("Wide shot of a clean modern construction site, a casino, and a restaurant chain, glowing money flowing from them into a bank, no violence", D3),
+ ("Medium shot of {c} at a dinner table with family heads who raise glasses to him, warm golden light with cold eyes", D3),
+ ("Medium shot of {d} in a lavish mansion bedroom, wild paranoid eyes, a gun on the nightstand, curtains drawn", DON),
+ ("Wide shot of a public execution in a plaza by masked men at the Don's orders, citizens fleeing, cameras flashing, dark sky", None),
+ ("Medium shot of FBI, DEA and Interpol agents in windbreakers studying a corkboard with the Don's photo at the center", None),
+ ("Medium shot of {c} in his office, calmly looking at a toy ship in a bottle then tipping it over, symbol of throwing the captain overboard", D3),
+ ("Wide shot of a smoky Italian restaurant full of ghosts of old movie gangsters with tommy guns fading away, {c} walks past them toward the exit", D3),
+ ("Close up of {c} placing an encrypted hard drive into an unmarked envelope, a distant phone booth glowing in the night", D3),
+ ("Wide shot of black helicopters circling a mansion at dawn, searchlights, agents storming the gate", None),
+ ("Medium shot of the Don in pajamas being led out in handcuffs by federal agents, flashing lights, stunned face", DON),
+ ("Wide shot of a barred prison cell at night, the old Don sitting alone on a cot, a TV showing terrorism charges with no readable text", DON),
+ ("Wide shot of an angry crowd of mob captains in a dark garage loading weapons, a civil war about to start, tension", None),
+ ("Wide shot of a five-star hotel conference room, mob captains seated at a polished table, {c} standing at the head with a projector glow behind him", D3),
+ ("Close up of a projector screen filled with numbers, offshore accounts and judges' names glowing, reflected in the captains' wide eyes", None),
+ ("Medium shot of the captains slowly lowering their guns and bowing their heads, {c} standing calm, no one speaks", D3),
+ ("Close up of {c}'s hand placing a golden crown on the table, clean and with no blood, cold light", D3),
+ ("Wide shot from behind of {c} standing at the window of his penthouse looking over the city that belongs to him, night, lights like a sea", D3),
+ ("Medium shot of {c} in his bedroom at 4 a.m., eyes wide open, unable to sleep, bodyguards' silhouettes outside the door", D3),
+ ("Close up of {c} staring suspiciously at a plate of food, a fork hovering, wife's silhouette across the table", D3),
+ ("Medium shot of {c} alone in an enormous empty office, a crown reflected in a mirror and his tired face next to it", D3),
+ ("Wide shot looking down from the penthouse to the damp alley below where a quiet young man in a hoodie watches the tower, rain, noir", None),
+ ("Close up of a young silent thug in the alley saving coins in a tin box, eyes fixed on the tower above, ominous", None),
+ ("Final scene: a golden crown on a countdown clock ticking toward zero, dark red lighting, sinister mood", None),
+ ("Medium shot of {c} in his hoodie again, looking straight at the camera and asking a question, behind him the city split between the tower and the alley", D1),
+]
+out = []
+for i, (p, c) in enumerate(S, 1):
+    p = p.replace("{c}", c or "").replace("{d}", c or "")
+    out.append({"escena": f"{i:02d}", "tipo": "estatica", "prompt": f"{p}. {STYLE}"})
+json.dump(out, open("prompts_mafia.json", "w"), ensure_ascii=False, indent=2)
+print(len(out))
