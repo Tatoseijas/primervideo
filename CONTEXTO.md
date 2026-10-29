@@ -33,7 +33,11 @@ locución con ElevenLabs → armado del video con scripts de Python → portada 
 
 - **Leonardo.ai** (web, sesión ya iniciada en el navegador): se usa por la interfaz con la extensión *Claude in
   Chrome*. Saldo al 2026-10-29: **17.502 créditos** (se empezó la sesión con ~20.600).
-- **ElevenLabs** (plan **Free**): 10.000 créditos/mes, **9.403 usados → quedan ~597** hasta el reinicio mensual.
+- **ElevenLabs — ¡ojo con la cuenta!** La sesión que había en el Chromium del PC del laboratorio es **«Luca's Workspace»**
+  (plan Free, 10.000 créditos/mes, **quedaban 597**, ver 2026-10-29). **No es la cuenta del usuario**
+  (`marottafranco08@gmail.com`), que es donde está su voz/personaje: de esa cuenta todavía **no se verificaron créditos
+  ni voces**. No se gastó ningún crédito en ninguna cuenta. Antes de generar voz: iniciar sesión en la cuenta correcta
+  (lo hace el usuario; Claude no ingresa contraseñas) y mirar el saldo en el menú del perfil.
   En el modelo turbo cuesta **1 crédito por carácter**. API key en la variable `ELEVENLABS_API_KEY` o en un `.env`.
   Voz usada en el video 2 y en el script del video 3: **Adam** (`voice_id pNInz6obpgDQGcFmaJgB`, modelo
   `eleven_turbo_v2_5`). *Ojo: el usuario habló de «mi personaje que ya está en ElevenLabs»; si es una voz propia
@@ -140,8 +144,8 @@ Ajustes de voz por parte en `AJUSTES` (stability/style según el tono de cada fa
 
 ## 9. PENDIENTES (en orden)
 
-1. **Voz (bloqueo):** esperar el reinicio mensual de ElevenLabs (o usar otra cuenta / plan Starter / otra voz: decisión
-   del usuario). Luego `python3 generar_locucion.py --creditos` y generar **por partes** (primero la 0 y la 1, revisar
+1. **Voz (bloqueo):** que el usuario inicie sesión en su cuenta de ElevenLabs (`marottafranco08@gmail.com`) y revisar ahí
+   créditos y voz; si no alcanzan, esperar el reinicio mensual (o plan Starter / otra voz: decisión del usuario). Luego `python3 generar_locucion.py --creditos` y generar **por partes** (primero la 0 y la 1, revisar
    el tono, seguir con las demás). No gastar si el saldo no alcanza.
 2. `python3 armar_video.py --transcribir` (pedir visto bueno para descargar el modelo whisper) y revisar
    `python3 armar_video.py --tiempos`: corregir anclas si alguna escena quedó muy corta o larga.
@@ -182,5 +186,5 @@ Ajustes de voz por parte en `AJUSTES` (stability/style según el tono de cada fa
 ## 11. Frase para retomar en otra compu
 
 > «Leé `CONTEXTO.md`. Estamos con el video “El precio de la corona” en `el_precio_de_la_corona/`. Falta generar la
-> voz con ElevenLabs por partes (`generar_locucion.py`), transcribir, renderizar con `armar_video.py` y subir.
+> voz con ElevenLabs (cuenta marottafranco08@gmail.com) por partes (`generar_locucion.py`), transcribir, renderizar con `armar_video.py` y subir.
 > Primero decime cuántos créditos tengo en ElevenLabs y qué parte conviene generar.»
