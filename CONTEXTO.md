@@ -67,7 +67,9 @@ el_precio_de_la_corona/     video 3 (todo lo nuevo; scripts SIN ffmpeg)
   armar_video.py              render del video (prueba sin voz / real con voz)
   portada.py, portada_base.jpg, portada_mafia.jpg   miniatura 1280×720
   textos_youtube.md           título, descripción, capítulos, etiquetas, textos de shorts
-  video_prueba.mp4            borrador 960×540 sin voz (7:45)
+  video_prueba.mp4            borrador 960×540 sin voz (7:45, 21 MB)
+  video_prueba_hd.mp4         el mismo a 1920×1080 sin voz (7:45, 55 MB; salió de `armar_video.py --hd`)
+  todas_las_escenas.jpg       las 63 escenas en una sola imagen (las 5 animadas llevan etiqueta VIDEO)
   _gen_prompts.py             generó prompts_mafia.json (referencia; el json es la fuente de verdad)
 ```
 
@@ -127,7 +129,7 @@ Ajustes de voz por parte en `AJUSTES` (stability/style según el tono de cada fa
   aparecen con cartel cuando la voz los dice.
 - Sin `locucion_mafia.mp3` + `_build/transcripcion.json` corre en **modo prueba**: tiempos por caracteres (13,7 car/s),
   audio en silencio, 960×540 → `video_prueba.mp4`. Con ambos, **modo real**: 1920×1080 → `video_final.mp4`.
-- Opciones: `--tiempos` (tabla de tiempos) · `--max N` (solo los primeros N s) · `--capitulos` (capítulos para la
+- Opciones: `--hd` (prueba sin voz a 1080p, CRF 28 para no pasar los 100 MB de GitHub) · `--tiempos` (tabla de tiempos) · `--max N` (solo los primeros N s) · `--capitulos` (capítulos para la
   descripción de YouTube con los tiempos de ese modo) · `--transcribir` (faster-whisper «small» sobre
   `locucion_mafia.mp3`; **la primera vez descarga el modelo de internet**).
 - Ken Burns lento alternando zoom/paneo, recorte automático de franjas negras, fundido de 0,25 s, escenas 1–5 con

@@ -266,6 +266,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tiempos", action="store_true")
     ap.add_argument("--transcribir", action="store_true")
+    ap.add_argument("--hd", action="store_true", help="prueba (sin voz) a 1920x1080 -> video_prueba_hd.mp4")
     ap.add_argument("--capitulos", action="store_true", help="imprime los capítulos para la descripción de YouTube")
     ap.add_argument("--max", type=float, default=0, help="renderizar solo los primeros N segundos")
     a = ap.parse_args()
@@ -293,15 +294,16 @@ def main():
         print(f"fin: {fin:.1f}s ({fin / 60:.2f} min)")
         return
 
-    W, H = (1920, 1080) if real else (960, 540)
-    salida = BASE / ("video_final.mp4" if real else "video_prueba.mp4")
+    hd = real or a.hd
+    W, H = (1920, 1080) if hd else (960, 540)
+    salida = BASE / ("video_final.mp4" if real else "video_prueba_hd.mp4" if a.hd else "video_prueba.mp4")
     total = min(fin, a.max) if a.max else fin
     print(f"{'real' if real else 'prueba'}: {total:.1f}s a {W}x{H} -> {salida.name}")
 
     out = av.open(str(salida), "w")
     v = out.add_stream("libx264", rate=FPS)
     v.width, v.height, v.pix_fmt = W, H, "yuv420p"
-    v.options = {"crf": "20" if real else "26", "preset": "medium" if real else "veryfast"}
+    v.options = {"crf": "21" if real else "28" if hd else "26", "preset": "medium" if hd else "veryfast"}
     au = out.add_stream("aac", rate=48000)
     au.layout = "mono"
     audio = audio_frames(total)
